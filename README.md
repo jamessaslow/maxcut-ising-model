@@ -1,5 +1,7 @@
 # Examining Macroscopic Thermal Behaviors of Maximum Cut Mapped to the Ising Model
 ### James Saslow, Kyle Nguyen
+### 10/3/2024
+
 
 <b> Return to [Full Project Portfolio](https://github.com/jamessaslow/portfolio) </b>
 
